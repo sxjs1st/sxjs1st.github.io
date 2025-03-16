@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wuwei Yuan"
+title                    : "Bo Wu"
 title_separator          : "-"
 name                     : &name "Bo Wu"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wuwei Yuan"
+  name             : "Bo Wu"
   avatar           : "profile.png"
   bio              : "First-Year CS Ph.D. Student @ ETH Zürich"
   location         : "Zürich, Switzerland"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sxjs1stw"
+  github           : "sxjs1st"
   google_plus      :
   keybase          :
   instagram        :
