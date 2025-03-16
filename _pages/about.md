@@ -21,11 +21,9 @@ redirect_from:
 
 **[CV (click here)](/files/CV.pdf)**
 
-Hello and welcome! I'm Wuwei Yuan (袁无为), a first-year computer science master's and doctorate student at ETH Zürich in [Rasmus Kyng](http://rasmuskyng.com) and [Maximilian Probst Gutenberg](https://sites.google.com/view/maximilianprobst/)'s group. In June 2024, I finished my undergraduate studies at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua. During the spring and summer of 2023, I had a wonderful research visit at the University of Michigan, advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/?pli=1).
+Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing International Studies University, advised by [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). I ranked 5th out of 51 in my cohort, excelling in courses such as **Real Analysis and Financial Econometrics**. My internships at CITIC Securities and Grant Thornton provided hands-on experience in market research and auditing. 
 
-My main research interest lies in fast graph algorithms and other topics within algorithm design. I am especially interested in:
-- Fast graph algorithms using either discrete or continuous methods
-- Versatile techniques for fast graph algorithms
+Through projects in quantitative analysis and **mathematical modeling**, I have refined my analytical and research skills, and my studies using tools like Stata, R, and Python have deepened my understanding of economic impacts and policy evaluations. Passionate about quantitative finance, I am now preparing for graduate studies to further advance my expertise in this dynamic field.
 
 
 Feel free to contact me!
