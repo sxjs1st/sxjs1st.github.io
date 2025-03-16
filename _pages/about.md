@@ -33,4 +33,4 @@ Feel free to contact me!
 > 
 > -- John F. Kennedy
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JVtBKfgVFvggHIuMnP1Gv3Un3BtkiguY-dm7mDeMzvE&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=73K7idVxq_lXA4alHGaCwbon_NfG1KMnkRLkrMKHys0'></script>
