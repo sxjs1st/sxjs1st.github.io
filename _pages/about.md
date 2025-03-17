@@ -21,9 +21,9 @@ redirect_from:
 
 **[CV (click here)](/files/CV.pdf)**
 
-Hi, I'm Bo Wu (武博), and I earned a Bachelor of Finance degree from Beijing International Studies University, advised by [Prof. Jia Zhai](https://www.researchgate.net/profile/Jia-Zhai-4). I ranked 5th out of 51 in my cohort, excelling in courses such as **Real Analysis and Financial Econometrics**. My internships at CITIC Securities and Grant Thornton provided hands-on experience in market research and auditing. 
+Hello and welcome! I'm Bo Wu (武博), a Bachelor of Finance graduate from [Beijing International Studies University](http://en.bisu.edu.cn/index.html) under the mentorship of [Prof. Hua Zhu](https://www.semanticscholar.org/author/Hua-Zhu/2115717502). Graduating 5th in a cohort of 50, I excelled in courses such as Real Analysis and Financial Econometrics with guidance from [Prof. Jia Zhai](https://www.semanticscholar.org/author/Jia-Zhai/2717495). My internships at [CITIC Securities](https://www.cs.ecitic.com/newsite/en/) and [Grant Thornton](https://www.grantthornton.cn/) provided me with valuable, hands-on experience in market research and auditing.
 
-Through projects in quantitative analysis and **mathematical modeling**, I have refined my analytical and research skills, and my studies using tools like Stata, R, and Python have deepened my understanding of economic impacts and policy evaluations. Passionate about quantitative finance, I am now preparing for graduate studies to further advance my expertise in this dynamic field.
+Additionally, I honed my analytical and research skills through projects in quantitative analysis and mathematical modeling led by [Prof. Xueqi Wang](https://www.semanticscholar.org/author/Xueqi-Wang/50141387). Utilizing tools like Matlab, Python, and R, I deepened my understanding of economic impacts and policy evaluations. With a passion for quantitative finance, I am now preparing to pursue graduate studies to further advance my expertise in this dynamic field.
 
 
 Feel free to contact me!
