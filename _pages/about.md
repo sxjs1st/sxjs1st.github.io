@@ -19,7 +19,7 @@ redirect_from:
   gtag('config', 'G-ZVTH79Y5H0');
 </script>
 
-**[CV (click here)](/files/CV.pdf)**
+**[CV (click here)](/files/2025CV.pdf)**
 
 Hello and welcome! I'm Bo Wu (武博), a Bachelor of Finance graduate from [Beijing International Studies University](http://en.bisu.edu.cn/index.html) under the mentorship of [Prof. Hua Zhu](https://www.semanticscholar.org/author/Hua-Zhu/2115717502). Graduating 5th in a cohort of 50, I excelled in courses such as Real Analysis and Financial Econometrics with guidance from [Prof. Jia Zhai](https://www.semanticscholar.org/author/Jia-Zhai/2717495). My internships at [CITIC Securities](https://www.cs.ecitic.com/newsite/en/) and [Grant Thornton](https://www.grantthornton.cn/) provided me with valuable, hands-on experience in market research and auditing.
 
