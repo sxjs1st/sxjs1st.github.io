@@ -27,7 +27,7 @@ Hello and welcome! I'm Bo Wu (武博), Feel free to contact me!
         <img src="images/Microsoft.svg" alt="Microsoft Logo" style="width: 80px; height: auto;">
     </div>
     <div>
-        <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
+        <div style="font-weight: bold;">Microsoft China</div>
         <div style="font-style: italic;">Research Assistant</div>
         <div>Jun. 2024 - Aug. 2024</div>
     </div>
