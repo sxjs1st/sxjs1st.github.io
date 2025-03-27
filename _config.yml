@@ -86,9 +86,9 @@ author:
   location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=qe314EcAAAAJ&hl=en"# "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   dblp             : "https://dblp.uni-trier.de/pid/351/1278.html"
-  email            : 
+  email            : "oqnm1st@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   github           : "sxjs1st"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "sxjs_1st"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
