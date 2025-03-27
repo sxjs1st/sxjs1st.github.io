@@ -7,6 +7,50 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello and welcome! I'm Bo Wu (武博), Feel free to contact me!
+
+# Education
+
+<div style="display: flex; margin-bottom: 2em; align-items: center;">
+    <div style="margin-right: 2em;">
+        <img src="images/CUC_logo.jpg" alt="CUC Logo" style="width: 80px; height: auto;">
+    </div>
+    <div>
+        <div style="font-weight: bold;">Communication University of China</div>
+        <div style="font-style: italic;">B.E. in Software Engineering</div>
+    </div>
+</div>
+
+# Work Experience
+<div style="display: flex; margin-bottom: 2em; align-items: center;">
+    <div style="margin-right: 2em;">
+        <img src="images/McGill_Logo.png" alt="CUHK Logo" style="width: 80px; height: auto;">
+    </div>
+    <div>
+        <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
+        <div style="font-style: italic;">Research Assistant</div>
+        <div>Jun. 2024 - Aug. 2024</div>
+    </div>
+</div>
+
+# Research Paper
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/wn.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
+<p class="paper-venue">arXiv preprint arXiv:2502.11598</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2502.11598">[Paper]</a> <a href="https://github.com/THU-BPM/Watermark-Radioactivity-Attack">[Code]</a></p>
+</div>
+</div>
+
+> *We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.*
+> 
+> -- John F. Kennedy
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=73K7idVxq_lXA4alHGaCwbon_NfG1KMnkRLkrMKHys0'></script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZVTH79Y5H0"></script>
@@ -110,56 +154,3 @@ hr {
     }
 }
 </style>
-
-Hello and welcome! I'm Bo Wu (武博), 
-
-# Education
-
-<div style="display: flex; margin-bottom: 2em; align-items: center;">
-    <div style="margin-right: 2em;">
-        <img src="images/CUC_logo.jpg" alt="CUC Logo" style="width: 80px; height: auto;">
-    </div>
-    <div>
-        <div style="font-weight: bold;">Communication University of China</div>
-        <div style="font-style: italic;">B.E. in Software Engineering</div>
-    </div>
-</div>
-
-# Work Experience
-<div style="display: flex; margin-bottom: 2em; align-items: center;">
-    <div style="margin-right: 2em;">
-        <img src="images/McGill_Logo.png" alt="CUHK Logo" style="width: 80px; height: auto;">
-    </div>
-    <div>
-        <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
-        <div style="font-style: italic;">Research Assistant</div>
-        <div>Jun. 2024 - Aug. 2024</div>
-    </div>
-</div>
-
-# Research Paper
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/wn.png" alt="paper">
-</div>
-<div class="paper-text">
-<div class="paper-title">Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
-<p class="paper-venue">arXiv preprint arXiv:2502.11598</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2502.11598">[Paper]</a> <a href="https://github.com/THU-BPM/Watermark-Radioactivity-Attack">[Code]</a></p>
-</div>
-</div>
-
-# Contact
-
-- **Email**:
-  -  oqnm1st@gmail.com
-
-Feel free to contact me!
-
-
-> *We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.*
-> 
-> -- John F. Kennedy
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=73K7idVxq_lXA4alHGaCwbon_NfG1KMnkRLkrMKHys0'></script>
