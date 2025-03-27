@@ -24,7 +24,7 @@ Hello and welcome! I'm Bo Wu (武博), Feel free to contact me!
 # Work Experience
 <div style="display: flex; margin-bottom: 2em; align-items: center;">
     <div style="margin-right: 2em;">
-        <img src="images/Microsoft.svg" alt="CUHK Logo" style="width: 80px; height: auto;">
+        <img src="images/Microsoft.svg" alt="Microsoft Logo" style="width: 80px; height: auto;">
     </div>
     <div>
         <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
@@ -36,11 +36,11 @@ Hello and welcome! I'm Bo Wu (武博), Feel free to contact me!
 # Research Paper
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/wn.png" alt="paper">
+<img src="images/wn.png" alt="paper1">
 </div>
 <div class="paper-text">
 <div class="paper-title">Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Bo Wu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
 <p class="paper-venue">arXiv preprint arXiv:2502.11598</p>
 <p class="paper-links"><a href="https://arxiv.org/pdf/2502.11598">[Paper]</a> <a href="https://github.com/THU-BPM/Watermark-Radioactivity-Attack">[Code]</a></p>
 </div>
