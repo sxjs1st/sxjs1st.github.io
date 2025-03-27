@@ -24,7 +24,7 @@ Hello and welcome! I'm Bo Wu (武博), Feel free to contact me!
 # Work Experience
 <div style="display: flex; margin-bottom: 2em; align-items: center;">
     <div style="margin-right: 2em;">
-        <img src="images/McGill_Logo.png" alt="CUHK Logo" style="width: 80px; height: auto;">
+        <img src="images/Microsoft.svg" alt="CUHK Logo" style="width: 80px; height: auto;">
     </div>
     <div>
         <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
