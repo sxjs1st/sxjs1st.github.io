@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Bo Wu"
   avatar           : "profile.png"
-  bio              : "First-Year CS Ph.D. Student @ ETH Zürich"
-  location         : "Guangdong, Guangzhou"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  "https://scholar.google.com/citations?user=qe314EcAAAAJ&hl=en"# "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=qe314EcAAAAJ&hl=en"# "http://yourfullgooglescholarurl.com"
   dblp             : "https://dblp.uni-trier.de/pid/351/1278.html"
-  email            : "2021221257 at stu.bisu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Bo-Wu-130"# example: "https://www.researchgate.net/profile/yourprofile"
+  email            : 
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
