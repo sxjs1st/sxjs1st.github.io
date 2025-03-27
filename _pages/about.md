@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZVTH79Y5H0"></script>
 <script>
@@ -19,12 +18,142 @@ redirect_from:
   gtag('config', 'G-ZVTH79Y5H0');
 </script>
 
-**[CV (click here)](/files/2025CV.pdf)**
+<p align="center" style="padding-top: 100px;"> 
+</p>
 
-Hello and welcome! I'm Bo Wu (武博), a Bachelor of Finance graduate from [Beijing International Studies University](http://en.bisu.edu.cn/index.html) under the mentorship of [Prof. Hua Zhu](https://www.semanticscholar.org/author/Hua-Zhu/2115717502). Graduating 5th in a cohort of 50, I excelled in courses such as Real Analysis and Financial Econometrics with guidance from [Prof. Jia Zhai](https://www.semanticscholar.org/author/Jia-Zhai/2717495). My internships at [CITIC Securities](https://www.cs.ecitic.com/newsite/en/) and [Grant Thornton](https://www.grantthornton.cn/) provided me with valuable, hands-on experience in market research and auditing.
+<style>
+.paper-container {
+    display: flex;
+    gap: 20px;
+    margin: 30px 0;
+    padding: 15px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
-Additionally, I honed my analytical and research skills through projects in quantitative analysis and mathematical modeling led by [Prof. Xueqi Wang](https://www.semanticscholar.org/author/Xueqi-Wang/50141387). Utilizing tools like Matlab, Python, and R, I deepened my understanding of economic impacts and policy evaluations. With a passion for quantitative finance, I am now preparing to pursue graduate studies to further advance my expertise in this dynamic field.
+hr {
+    margin: 10px 0;
+    height: 1px;
+    background-color: #ddd;
+    border: none;
+}
 
+.paper-image {
+    flex: 0 0 300px;
+    min-width: 0;
+}
+
+.paper-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    border: 1px solid #eee;
+}
+
+.paper-text {
+    flex: 1;
+    min-width: 0;
+}
+
+
+.paper-title {
+  font-family: "Microsoft YaHei",
+  font-weight: 2000;
+  -webkit-text-stroke: 0.9px black;  /* 添加描边效果使文字看起来更粗 */
+  font-size: 18px;
+  margin: 0 0 8px 0;
+  color: #000;
+}
+
+.paper-authors {
+  font-family: "Microsoft YaHei",
+   margin: 2px 0;
+    font-size: 14.5px;         /* 调小作者字体 */
+    color: rgba(0,0,0,0.9);    /* 更自然的灰色 */
+    font-weight: 400;          /* 更细的字重 */
+}
+
+.paper-venue {
+   font-family: "Microsoft YaHei",
+    color: #d83931;
+    font-style: italic;
+    font-size: 0.95em;
+    margin: 3px 0;
+}
+
+.paper-links {
+  font-family: "Microsoft YaHei",
+    font-size: 0.9em;
+    margin: 3px 0;
+}
+
+.paper-links a {
+    margin-right: 10px;
+    color: #4A90E2;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.paper-links a:hover {
+    color: #357ABD;
+}
+
+@media (max-width: 768px) {
+    .paper-container {
+        flex-direction: column;
+    }
+    
+    .paper-image {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+}
+</style>
+
+Hello and welcome! I'm Bo Wu (武博), 
+
+# Education
+
+<div style="display: flex; margin-bottom: 2em; align-items: center;">
+    <div style="margin-right: 2em;">
+        <img src="images/CUC_logo.jpg" alt="CUC Logo" style="width: 80px; height: auto;">
+    </div>
+    <div>
+        <div style="font-weight: bold;">Communication University of China</div>
+        <div style="font-style: italic;">B.E. in Software Engineering</div>
+    </div>
+</div>
+
+# Work Experience
+<div style="display: flex; margin-bottom: 2em; align-items: center;">
+    <div style="margin-right: 2em;">
+        <img src="images/McGill_Logo.png" alt="CUHK Logo" style="width: 80px; height: auto;">
+    </div>
+    <div>
+        <div style="font-weight: bold;">The Chinese University of Hong Kong (CUHK)</div>
+        <div style="font-style: italic;">Research Assistant</div>
+        <div>Jun. 2024 - Aug. 2024</div>
+    </div>
+</div>
+
+# Research Paper
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/wn.png" alt="paper">
+</div>
+<div class="paper-text">
+<div class="paper-title">Can LLM Watermarks Robustly Prevent Unauthorized Knowledge Distillation?</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Leyi Pan</strong>, Aiwei Liu, Shiyu Huang, Yijian Lu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
+<p class="paper-venue">arXiv preprint arXiv:2502.11598</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2502.11598">[Paper]</a> <a href="https://github.com/THU-BPM/Watermark-Radioactivity-Attack">[Code]</a></p>
+</div>
+</div>
+
+# Contact
+
+- **Email**:
+  -  oqnm1st@gmail.com
 
 Feel free to contact me!
 
