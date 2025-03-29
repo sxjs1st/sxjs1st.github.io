@@ -31,13 +31,13 @@ Outside of the academic world, I have a passion for triathlons. They provide a g
   - 200m individual medley: 3'37"03 (&#129352;<span style="color:silver">*2nd place*</span> of group B at the BISU Swimming Competition, 2022)
 - Cycling: None
 - Running:
-  - 1km: 3:51
-  - 5km: 24:42
-  - Half marathon: 2:13:48
+  - 1km: 3:23
+  - 5km: 19:37
+  - Half marathon: 1:53:48
 
 [^1]: Departments and schools are divided into two groups based on the numbers of students of them. School of Economics has a few students, so it is in group B.
 
-Besides, I’m also a beginner in skiing and diving. In the 16th Beijing Higher Education Skiing Competition, I placed 8th in the Men’s Snowboard Group B. As for diving, I mean the kind that involves jumping or falling into water from a platform or springboard.
+Besides, I’m also a beginner in skiing and diving. In the 16th Beijing Higher Education Skiing Competition, I placed **8th** in the Men’s Snowboard Group B. As for diving, I mean the kind that involves jumping or falling into water from a platform or springboard.
 
 ## Food
 
