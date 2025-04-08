@@ -39,6 +39,9 @@ Outside of the academic world, I have a passion for triathlons. They provide a g
 
 Besides, I’m also a beginner in skiing and diving. In the 16th Beijing Higher Education Skiing Competition, I placed **8th** in the Men’s Snowboard Group B. As for diving, I mean the kind that involves jumping or falling into water from a platform or springboard.
 
+## Games
+My favorite games are **Monster Hunter** and **PUBG**. I enjoy the thrill of hunting massive creatures in Monster Hunter, where strategy and teamwork are key. In PUBG, I love the intense, fast-paced action and the excitement of being the last one standing. These games offer totally different experiences, but both keep me engaged and always wanting to improve my skills.
+
 ## Food
 
 I don't like:
