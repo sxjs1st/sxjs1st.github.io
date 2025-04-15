@@ -2,6 +2,8 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+nav: true
+nav_order: 2
 ---
 
 Unless stated otherwise, author names are in **alphabetical order**. Listed in reverse chronological order.
