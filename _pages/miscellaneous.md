@@ -3,6 +3,8 @@ permalink: /miscellaneous/
 title: "Miscellaneous"
 excerpt: "Miscellaneous"
 author_profile: true
+nav: true
+nav_order: 3
 redirect_from: 
   - /miscellaneous.html
   - /misc/
