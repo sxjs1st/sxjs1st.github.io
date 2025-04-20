@@ -17,7 +17,7 @@ I like things that are fast in general:
 - Formula One: I’m a fan of Charles Leclerc and the Ferrari team. I really admire his driving skills and how he represents Ferrari with such passion and determination.
 - Starship and other rockets
 
-Meanwhile, I really like Arsenal and Barcelona—they’re my two favorite football clubs. Bukayo Saka and Pedri are the players I admire the most for their talent, creativity, and the energy they bring to the game.
+Meanwhile, I really like Arsenal and Barcelona—they’re my two favorite football clubs. **Bukayo Saka** and **Pedri** are the players I admire the most for their talent, creativity, and the energy they bring to the game.
 
 Here's a glance at some of the other things I've been involving in outside of my primary academic focus:
 
@@ -44,7 +44,7 @@ My favorite games are **Monster Hunter** and **PUBG**. I enjoy the thrill of hun
 
 ## Movies
 
-My favorite movies are Tenet and The Matrix. I really enjoy films that explore complex ideas like time, reality, and human perception. Both movies have mind-bending plots, stunning visuals, and thought-provoking themes that make me want to watch them over and over again. I love how they challenge the way we think about the world and push the boundaries of science fiction.
+My favorite movies are **Tenet** and **The Matrix**. I really enjoy films that explore complex ideas like time, reality, and human perception. Both movies have mind-bending plots, stunning visuals, and thought-provoking themes that make me want to watch them over and over again. I love how they challenge the way we think about the world and push the boundaries of science fiction.
 
 ## Food
 
