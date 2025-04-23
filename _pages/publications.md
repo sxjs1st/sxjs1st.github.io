@@ -15,7 +15,7 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 - **Modeling and Forecasting the NASDAQ Composite Index: An ARMA and VAR Approach with EGARCH Analysis on NVDA and MSFT** \[[paper](/files/Econometrics.pdf)\]<br>
   Bo Wu<br>
   *Financial Econometrics Course Paper*, 2024.
-- **The Influence of Establishing Belt and Road Node Cities on the Development of Digital Inclusive Finance Across Chinese Provinces** \[[paper](/files/inclusive.pdf)\]<br>
+- **The Influence of Establishing Belt and Road Node Cities on the Development of Digital Inclusive Finance Across Chinese Provinces** \[[arxiv](https://arxiv.org/abs/2504.15316)\]<br>
   Bo Wu<br>
   *Financial Derivatives Course Paper*, 2024.
 - **A Study on the Impact of Environmental Liability Insurance on Industrial Carbon Emissions** \[[arxiv](https://arxiv.org/abs/2503.15445)\]<br>
