@@ -36,11 +36,10 @@ Outside of the academic world, I have a passion for triathlons. They provide a g
 Besides, I’m also a beginner in skiing and diving. In the 16th Beijing Higher Education Skiing Competition, I placed **8th** in the Men’s Snowboard Group B. As for diving, I mean the kind that involves jumping or falling into water from a platform or springboard.
 
 ## Music
-
 I can play the piano and the drums a bit. Although I’m not a professional, I enjoy practicing in my free time, especially when I want to relax or express my emotions through music. I also like to listen to symphonies—they help me unwind and appreciate the beauty of classical music. The rich layers of sound and the emotion behind each piece always inspire me. Music plays an important role in my life, both as a hobby and as a source of comfort.
 
 ## Games
-My favorite games are **Resident Evil** and **Monster Hunter**. I enjoy the thrill of hunting massive creatures in Monster Hunter, where strategy and teamwork are key. In PUBG, I love the intense, fast-paced action and the excitement of being the last one standing. These games offer totally different experiences, but both keep me engaged and always wanting to improve my skills.
+In my free time, I love exploring immersive game worlds. **Resident Evil** and **Monster Hunter** are two of my all-time favorites, offering a perfect blend of storytelling, strategy, and excitement. I appreciate the rich atmosphere of Resident Evil and the dynamic battles of Monster Hunter. Gaming has always been a great way for me to relax and stay inspired.
 
 ## Movies
 
